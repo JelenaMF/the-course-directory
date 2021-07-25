@@ -1,8 +1,8 @@
 {
-  "name": "course-directory",
+  "name": "the-course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JelenaMF.github.io/the-cpurse-directory",
+  "homepage": "http://JelenaMF.github.io/the-course-directory",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^16.6.3",
